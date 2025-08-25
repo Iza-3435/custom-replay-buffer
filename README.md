@@ -1,4 +1,4 @@
-# High-Performance Replay Buffer Library
+# High Performance Replay Buffer Library
 
 🚀 **Ultra-fast C++ replay buffer implementation for reinforcement learning applications with Python bindings.**
 
